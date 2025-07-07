@@ -8,18 +8,6 @@ This project is part of the 42 curriculum and explores multithreading, mutual ex
 
 ---
 
-## 📖 Table of Contents
-
-- [Overview](#overview)
-- [Project Rules](#project-rules)
-- [Usage](#usage)
-- [Implementation Details](#implementation-details)
-- [How Deadlocks Are Avoided](#how-deadlocks-are-avoided)
-- [Bonus Version](#bonus-version)
-- [Author](#author)
-
----
-
 ## 🧩 Overview
 
 The **Dining Philosophers** problem is a classic synchronization problem involving a certain number of philosophers sitting around a table doing one of three things:
